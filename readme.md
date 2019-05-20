@@ -1,3 +1,6 @@
+접속하여 Test 가능한 URL
+http://ec2-13-209-15-44.ap-northeast-2.compute.amazonaws.com:3000/
+
 React를 사용하여 만들었습니다.
 리눅스 환경에서 설치 및 배포하는 방법
 
