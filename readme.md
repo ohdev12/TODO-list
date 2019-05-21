@@ -24,7 +24,9 @@ sudo apt-get update && sudo apt-get install yarn
 
 #3. 리액트 설치 (create react app)
 npx create-react-app my-app
+
 cd my-app
+
 npm start
 
 #4. yarn build
